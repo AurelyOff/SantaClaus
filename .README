@@ -1,0 +1,9 @@
+COMPOSER REQUIREMENT
+
+$ composer require api
+$ composer require symfony/maker-bundle --dev
+$ composer require migrations
+$ composer require ramsey/uuid
+
+$ composer require form
+$ composer require symfony/profiler-pack
